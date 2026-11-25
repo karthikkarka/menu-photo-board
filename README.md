@@ -1,4 +1,4 @@
-# Menu Photo Board — Cafe Menu Photography Pipeline Tracker
+﻿# Menu Photo Board — Cafe Menu Photography Pipeline Tracker
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat&logo=vercel)](https://menu-photo-board.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat&logo=nextdotjs)](https://nextjs.org/)
@@ -83,9 +83,9 @@ menu-photo-board/
 
 ## Related PlateAndPost Repositories
 
-* **PlateAndPost Website:** [onfroy69/PlateAndPost](https://github.com/onfroy69/PlateAndPost)
-* **n8n Cafe Automations:** [onfroy69/n8n-cafe-automations](https://github.com/onfroy69/n8n-cafe-automations)
-* **Automated Proposals & Offers:** [onfroy69/plateandpost-solution-proposals](https://github.com/onfroy69/plateandpost-solution-proposals)
+* **PlateAndPost Website:** [karthikkarka/PlateAndPost](https://github.com/karthikkarka/PlateAndPost)
+* **n8n Cafe Automations:** [karthikkarka/n8n-cafe-automations](https://github.com/karthikkarka/n8n-cafe-automations)
+* **Automated Proposals & Offers:** [karthikkarka/plateandpost-solution-proposals](https://github.com/karthikkarka/plateandpost-solution-proposals)
 
 ---
 
